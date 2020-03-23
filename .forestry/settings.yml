@@ -11,6 +11,8 @@ sections:
   match: "**/*.md"
   templates:
   - project
+  - author
+  - theme-configuration
 - type: directory
   path: journal
   label: Journal
